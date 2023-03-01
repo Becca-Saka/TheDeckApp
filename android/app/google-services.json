@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803461642233",
+    "firebase_url": "https://the-deck-ff09d-default-rtdb.firebaseio.com",
+    "project_id": "the-deck-ff09d",
+    "storage_bucket": "the-deck-ff09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803461642233:android:08fe004e0601bd685f2f28",
+        "android_client_info": {
+          "package_name": "com.thedeck.thedeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803461642233-81lvt3vqpjia215hf8outvftlb3aoer7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA633FGGBuvBXRlJCLQbWkbElpxuWXTVoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803461642233-81lvt3vqpjia215hf8outvftlb3aoer7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

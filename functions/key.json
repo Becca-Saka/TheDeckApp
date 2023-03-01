@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-deck-ff09d",
+  "private_key_id": "af34fce59405ec9b20b08a7fda3c5ceac1c30396",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC17p4jnuoKiqnu\nNikW7aJ0lIoFn59L4kz5PDB8GVJLrO3m9DLZAq1VnCJTSqFr+TVaxpIPBjjPMtS5\niNBpURfvloVLWandJzhdD4EHX5jxvKoypDOBQfZTjiA0S45v74d1BqPpkaU/kNUS\n1tJE1/6RKedmCyCfVqZuprIaNYre6keNMVZHGdDqfqSTDfRHuu98MbVrgx7bGIjP\nqzKGcW22S1yXgU29Wddw2G1Se9xhxGuUrO1WRao7PV6ie83wAJh+0jcQaGjWwqP2\n312ynrvBqqRWAw0nJx2QMDMHPT4YiEgb7ZTEhVNVyQM6gU3KdyEeqA1vQzQIpN65\nuD2ZgsSHAgMBAAECggEAAfGU2UQ93jNMDHeh/xThMEX+ptUP58jOUg1YEUNYqJFQ\n5gTu3s2or2pLHZZbB3hynvp8c1JO3LvUyk9RYVv/RE0t4GJgA7UDD6TLl+9oBrvM\nGl1nECGgcZUU9/9kpq0pm9D12Fgjf/yFTOhkTQhSYmz5rr0+ByXEV8NKfNLcnclg\nqKbQ4PYKh4XjgMvOfoE1uADmKyCR4gmX0IeeftMJLAnu1w5Cnx3h07v6umaAhO81\nw9Ij8XEyMBeErO67k3krxAKQB2YPxAE3iTMK6kRo3bE8lkWI/U2AnrZBw59KygsZ\nId5+MA6b7e/hEnGHGqtv289uyQ4FTd0QDGNEbcps3QKBgQD0+xxyUPpy0RjSTa76\nvXWHd6Qe8n0zSLZD5o144CGX5mND/PgTkQOBk8o2aVfFGwWh9BjGFgwdVGr8m5UG\nEW2N30YLINtD20EjV8ckMdztyGUoGHE2vu5wzk0u/FT1/ss+jVLfLQ1Gi1nASogh\nW7hcwngZAwOyJgSwG/WzMsMsxQKBgQC+HYRGF4u39YkIro7y2FGiUXl58bcAfsVJ\nUG4X0b/Hhn/A+qjKCBPvBMv9H+aiTILvRowS7an+gaaIIZCchziVUAaFSOoDvz6j\ngi5s0jvvsi4qdXdLhy5IYBDJ87r56p0aRBesESzbiT14z3T7XcoXU/neL2GP8Xt4\nAOmMBoUY2wKBgGMUtLqfecu6OfnEpYKP4dr6ToydsnltbRolQw6iR7Px4C/9PjBb\ntDlSFrTPAkqb1TldSi/Ddv7dx6+HFUyw+8gnh2K01TmqkbvDoq1G5X3eUNtYl2F2\n82T4a0sXjx03Aei4q83LoNTpQ1F8U3Z6bCRIGt6y02nX6ol3pXXmj/2pAoGBALHb\nLUbhej2UQCnWHDeGNgDTlgCGKD0XW/v1eblg6biA1H22QjgXjIZ8h1X8BSjqyUeO\nSTbgDrvhkOkj9YTqX/4XyrHgf8UXokMXY9U8bQQWPmhMUllfUuY0sSAtm0t4uJa9\nAyRfQQb1AoRGGNucZ5ahYk4BJ5WhRXAD8nmkE9onAoGAOAgVHdqAB9A3jfNiui6v\nKYtg1EV8AhutaQpOnxWUvnysfWjR/gOHSzYNeKsnFEjYReoMebZ1ytpKpXEV51R4\nhipDm+2uku/olkXVv4ciOuvrUPC6xw2s+Op1HGY3WOch18EZKKCGGqzwumMF7V3l\nxcGwj40vILGe6tjeGasqRHM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "the-deck-ff09d@appspot.gserviceaccount.com",
+  "client_id": "100976773660285939800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/the-deck-ff09d%40appspot.gserviceaccount.com"
+}
